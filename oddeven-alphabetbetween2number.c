@@ -1,9 +1,6 @@
-/*#include <stdio.h>
+/*
 // program to find number in alphabet and odd-even between 2 numbers.
-int main()
-{
-
-  #include <assert.h>
+#include <assert.h>
 #include <limits.h>
 #include <math.h>
 #include <stdbool.h>
@@ -12,10 +9,7 @@ int main()
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
 char* readline();
-
-
 
 int main()
 {
@@ -103,6 +97,8 @@ char* readline() {
 }
 
 }*/
+
+/*
 #include <assert.h>
 #include <limits.h>
 #include <math.h>
@@ -161,4 +157,4 @@ char* readline() {
 
     return data;
 }
-
+*/
