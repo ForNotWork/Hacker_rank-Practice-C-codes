@@ -1,6 +1,6 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
-/*void calculate_the_maximum(int n,int k)
+void calculate_the_maximum(int n,int k)
 {
     int a[10];
     int b[10];
@@ -27,8 +27,8 @@
         printf("\n%d\t",b[i]);
         printf("\n%d\t",c[i]);
     }
-}*/
-/*
+}
+
 void calculate_the_maximum(int n, int k) {
   //Write your code here.
   int max_and =0, max_or=0, max_xor=0, and, or, xor, i, j;
@@ -59,8 +59,8 @@ int main() {
     calculate_the_maximum(n, k);
  
     return 0;
-}*/
-#include <stdio.h>
+}
+/*#include <stdio.h>
 
 struct data
 {
@@ -74,7 +74,7 @@ int main()
     scanf("%d",Data.a);
     printf("%d",Data.a);
     return 0;
-}
+}*/
 /*int max_and=0,max_or=0,max_xor=0,and,or,xor,i,j;
   for(i =0;i<n;i++)
   {
